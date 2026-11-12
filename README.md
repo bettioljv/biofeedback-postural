@@ -6,12 +6,20 @@ O projeto utiliza um ESP32 e um sensor MPU6050 para identificar a inclinação d
 
 ## Status atual
 
+
+
 - Simulação validada na plataforma Wokwi;
 - Firmware compilado para ESP32;
 - Leitura de inclinação com MPU6050;
 - Calibração inicial da postura neutra;
 - Alerta sonoro para inclinação acima de 30 graus;
 - Montagem física prevista como próxima etapa.
+
+## Simulação no Wokwi
+
+O circuito e os testes iniciais podem ser acessados na plataforma Wokwi:
+
+[Visualizar simulação do sistema de biofeedback postural](https://wokwi.com/projects/476704888770307073)
 
 ## Componentes previstos
 
